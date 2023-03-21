@@ -1,0 +1,26 @@
+context:
+  personal:
+    projects:
+      home:
+        cleaning:
+          - kitchen
+          - living_room
+          - study
+          - bedroom
+          - laundry
+      hobby:
+        - homelab
+      tags:
+      - home
+      - homelab
+  work:
+    projects:
+      customer_1:
+        subproj_1:
+          ticket_no
+        subproj_2:
+          ticket_no
+        subproj_3:
+          ticket_no
+    tags:
+    - work
